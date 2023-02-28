@@ -6,7 +6,7 @@
 
 ## ❓How:
 
-### ① BMT.guide = Buy, Monetize, Tokenize™ (a web3 powered P2P Real Estate investing strategy)
+### ① BMTguideNFT = Buy, Monetize, Tokenize™ (a web3 powered P2P Real Estate investing strategy)
 
 ### ② $RETCLUB = Real Estate Token Clubs Network (engine behind the strategy)
 
